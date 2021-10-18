@@ -1,4 +1,7 @@
 # Exercise-tracker
+A Project to keep the track of user  
+
+
 ### The Project is developed using --
 ### Frontend --
 #### HTML
